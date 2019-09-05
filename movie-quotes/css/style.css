@@ -1,0 +1,31 @@
+body{
+	font-family: sans-serif;
+
+}
+.Venkman{
+	font-weight: bold;
+	color: red;
+}
+.Barrett{
+	font-weight: bold;
+	color: blue;
+}
+.Mayor{
+	font-weight: bold;
+	color: purple;
+}
+.Stantz{
+	font-weight: bold;
+	color: green;
+}
+.Spengler{
+	font-weight: bold;
+	color: orange;
+}
+.Zeddemore{
+	font-weight: bold;
+	color: brown;
+}
+.Directions{
+	font-style: italic;
+}
