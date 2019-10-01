@@ -1,0 +1,57 @@
+body {
+	font-family: 'Archivo Narrow', sans-serif;
+}
+h1 {
+	margin: 0 0 0 0;
+	font-size: 80px;
+}
+h2 {
+	font-size: 30px;
+	margin: 0;
+}
+
+h3 {
+	margin: 0 0 37px 0;
+	text-align: center;
+	font-size: 40px;
+}
+
+p{
+	font-size: 18px;
+	font-weight: 600;
+	letter-spacing: -.4px;
+	line-height: 25px;
+}
+header {
+	background-color: rgba(255,0,0,0);
+	text-align: center;
+	padding: 150px 0 185px 0;
+	background-image: url("../images/mountains.jpg");
+	background-size: cover;
+	background-repeat: no-repeat;
+	background-position: center;
+}
+
+section > div {
+	width: 960px;
+	/*background-color: rgba(0,255,255,.5);*/
+	margin: auto;
+	padding: 33px 0 0 0;
+
+}
+
+section.section_one {
+	/*background-color: rgba(0,0,255,.5);*/
+
+
+}
+
+.section_one p {
+	font-size: 18px;
+}
+.section_one img{
+	float: right;
+	width: 400px;
+	height: 300px;
+	margin: 0 0 20px 36px;
+}
